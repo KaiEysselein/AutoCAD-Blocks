@@ -20,3 +20,6 @@ You are free to **share** and **adapt** these blocks for any purpose, including 
 
 ⚠️ To ensure all blocks remain compliant with the **Creative Commons license**,  
 **please do not upload blocks that are not your original work or sourced from other websites**.
+
+⚠️ Disclaimer
+All blocks provided here are shared in good faith, but use is at your own risk. While efforts have been made to ensure accuracy and usability, no guarantees are provided regarding correctness, completeness, or fitness for any specific purpose. It is the user's responsibility to verify and validate all content before incorporating it into professional or critical work. The creator assumes no liability for errors, misuse, or any consequences arising from the use of these blocks.
