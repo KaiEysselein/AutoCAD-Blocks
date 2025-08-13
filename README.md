@@ -11,7 +11,7 @@ You are free to **share** and **adapt** these blocks for any purpose, including 
 
 ### 📝 Notes
 
-- The unit of measure is **unitless**; all blocks are drawn in **1:1 scale**.
+- Usually the unit of measure is **unitless**; blocks are drawn in **1:1 scale** or SI units.
 - If they are purposed for annotations, the blocks are to be scaled to the scale of the intended viewport
 - All block geometry is created on the **"0" layer**.
 - All text is set to "Standard"
